@@ -1,0 +1,4 @@
+# All outputs:
+# Step 1: create filtered_flares_by_date_year - no flare loop location
+# Step 2: Create filtered_results - have flare location but no EIS filename
+# Step 3: Create filtered_flares - have EIS filename and flare location
